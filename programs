@@ -1,0 +1,7 @@
+echo "# python-programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Manjari1918/python-programming.git
+git push -u origin main
